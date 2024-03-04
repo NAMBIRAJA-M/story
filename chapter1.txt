@@ -1,1 +1,2 @@
-hey buddy !its me raja
+hey buddy !its me raja.
+I am trying to work with git and their attributes
