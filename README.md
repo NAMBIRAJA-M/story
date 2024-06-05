@@ -2,11 +2,14 @@
 
 Creating and Managing a Git Repository
 
+
 Creating a Directory and Adding Files:
+
 
 The project starts by creating a new directory, which acts as a container for all project files. For example, using the command mkdir my_project, a directory named my_project is created. Within this directory, a file such as README.md is created to provide essential information about the project. Content is added to this file using simple text-writing commands.
 
 Initializing a Git Repository:
+
 
 Initializing a Git repository in the project directory sets up version control for tracking changes. The command git init is used to create a new Git repository, which involves creating a .git subdirectory containing all necessary metadata and version history.
 
